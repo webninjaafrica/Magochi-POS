@@ -30,7 +30,7 @@
 
 ## 📥 Download
 
-**Free Test Version:** [Download EXE (27 MB)](https://magochi-pos.webninjaafrica.com/pharmacy-pos-v0.11.exe)
+**Free Version:** [Download EXE (27 MB)](https://magochi-pos.webninjaafrica.com/pharmacy-pos-v0.11.exe)
 
 ---
 
