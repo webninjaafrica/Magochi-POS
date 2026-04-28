@@ -121,6 +121,11 @@
 
 ---
 
+## 💰 Free Pricing (One-time License)
+| License Type | Price (USD) | Users | Support |
+|--------------|-------------|-------|---------|
+| Single Store | Free (Lifetime) | 1 concurrent |   N/A      |
+
 ## 💰 Premium Pricing (One-time License)
 
 | License Type | Price (USD) | Users | Support |
