@@ -121,12 +121,12 @@
 
 ---
 
-## 💰 Free Pricing (One-time License)
+## 💰  Pricing (Free version)
 | License Type | Price (USD) | Users | Support |
 |--------------|-------------|-------|---------|
 | Single Store | Free (Lifetime) | 1 concurrent |   N/A      |
 
-## 💰 Premium Pricing (One-time License)
+## 💰 Premium Pricing (Paid Version- One-time License)
 
 | License Type | Price (USD) | Users | Support |
 |--------------|-------------|-------|---------|
